@@ -1,4 +1,4 @@
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -14,7 +14,7 @@ section {
   padding: 5%;
 }
 
-p{
+p {
   margin-bottom: .8rem;
   line-height: 1.6;
   font-weight:300;
